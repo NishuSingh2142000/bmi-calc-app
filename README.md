@@ -1,6 +1,6 @@
-## bmi_calc
+# BMI Calculator
 
-# It is an app which calculates bmi of a person
+## It is an app which calculates bmi of a person
 
 ![2](https://user-images.githubusercontent.com/114687562/196040482-6d0a2801-1d96-4b2c-8e63-9921da1c28a2.jpg)
 
