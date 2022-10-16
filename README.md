@@ -1,7 +1,10 @@
 # BMI Calculator
 
 ## It is an app which calculates bmi of a person
+![new](https://user-images.githubusercontent.com/114687562/196048723-dcbdeaf6-ff09-43f4-8641-fe767a512a3a.jpg)
 
-![2](https://user-images.githubusercontent.com/114687562/196040482-6d0a2801-1d96-4b2c-8e63-9921da1c28a2.jpg=250x250)
+![new2](https://user-images.githubusercontent.com/114687562/196048762-93a67aaf-327c-4351-9d8c-3d18c9aa660e.jpg)
 
-![1](https://user-images.githubusercontent.com/114687562/196040472-dff8f6ca-2c47-4d6a-bb1e-470386197fee.jpg)
+
+
+
